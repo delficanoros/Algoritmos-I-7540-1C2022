@@ -1,4 +1,4 @@
-# algoritmos-1-7540
+# ALGORITMOS Y PROGRAMACIÓN I 7540
 Trabajos Prácticos de Algoritmos y Programación I (7540) de FIUBA
 
 En este repositorio se encuentran los trabajos prácticos realizados en la cátedra **Camejo - Mendez** del primer cuatrimestre de 2022.
